@@ -1,4 +1,4 @@
-# certifications
+# <em>certifications</em>
 
 <h1> QA-BA-ISTQB </h1>
 <p><strong>2016 QA/BA/ISTQB Completed Training:</strong>
