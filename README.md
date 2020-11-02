@@ -1,7 +1,6 @@
 # certifications
 
 <h1> QA-BA-ISTQB </h1>
-
 <p><strong>2016 QA/BA/ISTQB Completed Training:</strong>
 <br>
 <em>Testing Modules: Manual, Backend, Functional Automation, Performance.
