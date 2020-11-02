@@ -1,5 +1,4 @@
 # certifications
-<hr>
 
 <h1> QA-BA-ISTQB </h1>
 
